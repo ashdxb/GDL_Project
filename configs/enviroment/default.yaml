@@ -1,0 +1,8 @@
+use_wandb: false
+upload_artifacts: false
+wandb_project_name: GIRL Kernel Regression
+exp_name: None
+data_dir: data
+output_dir: gnn_reconstruction_output
+device: cuda
+num_workers: 6
